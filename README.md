@@ -3,7 +3,7 @@ A simple Google Chrome extension that displays your external IPv4 address in the
 
 # Installation
 Download the extension from this Github repository.
-Open the Chrome Extension Management page by navigating to chrome://extensions.
+Open the Chrome Extension Management page by navigating to ```chrome://extensions```.
 Enable Developer Mode by clicking the toggle switch next to "Developer mode".
 Click the "Load unpacked" button and select the downloaded extension folder.
 
