@@ -1,6 +1,8 @@
 # My External IP
 A simple Google Chrome extension that displays your external IPv4 address in the toolbar.
 
+![My External IP](~img/screenshot1.png)
+
 # Installation
 Download the extension from this Github repository.
 Open the Chrome Extension Management page by navigating to ```chrome://extensions```.
